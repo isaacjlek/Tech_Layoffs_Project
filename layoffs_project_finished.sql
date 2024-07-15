@@ -2,7 +2,7 @@
 -- 1. Remove Duplicates
 -- 2. Standardize the Data
 -- 3. Null Values or Blank Values
--- 4. Remove Unecessary Columns
+-- 4. Remove Unnecessary Columns
 
 SET SQL_SAFE_UPDATES = 0;
 
@@ -89,7 +89,7 @@ UPDATE layoffs_staging2
 SET industry = 'Crypto'
 WHERE industry LIKE 'Crypto%';
 
--- Looked for and fixed errors in the country column
+-- Looked for and fix errors in the country column
 
 SELECT DISTINCT country
 FROM layoffs_staging2
