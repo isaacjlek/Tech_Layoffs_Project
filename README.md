@@ -2,7 +2,7 @@
 
 ### Project Overview
 
-This data analysis project provides insight into where, when, and why the mass tech layoffs of 2022 occurred. Through malleable visualizations, we are able to filter through the countries, cities, companies, months, and industries to determine a variety of possible questions.
+This data analysis project provides insight into where, when, and why the mass tech layoffs of 2022 occurred. Through malleable visualizations, we are able to filter through the countries, cities, companies, months, and industries to determine answers to a variety of possible questions.
 
 ### Data Sources
 
