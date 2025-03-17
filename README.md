@@ -55,7 +55,7 @@ FROM Rolling_Total;
 
 ### Results/ Findings
 
-SQL - https://shorturl.at/apPWl
+SQL - https://github.com/isaacjlek/Tech_Layoffs_Project/blob/main/layoffs_project_finished.sql
 
 Tableau Dashboards - 
 
