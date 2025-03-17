@@ -114,7 +114,7 @@ Reasoning: Philips was affected by a major product recall and slowing demand for
 
 ### References
 
-- Youtube Alex the Analyst Data cleaning: https://www.youtube.com/watch?v=4UltKCnnnTA&list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF&index=19
+- Youtube Alex the Analyst tutorial to assist with data cleaning: https://www.youtube.com/watch?v=4UltKCnnnTA&list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF&index=19
 
 
 
